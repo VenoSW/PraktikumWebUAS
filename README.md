@@ -1,2 +1,13 @@
-# PraktikumWebUAS
-UAS Pemrograman Web | Universitas Pelita Bangsa | Dosen : Agung Nugroho,S.Kom.,M.Kom.
+# UAS Pemrograman Web Semester 4
+
+```
+Veno Setyoaji Wiratama
+311910363
+TI.19.A.2
+```
+
+## Link Demo Web : http://vswproject.masuk.id/
+
+| Email | Password |
+| ------ | ------ |
+| admin@gmail.com | admin |
